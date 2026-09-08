@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/codesmith-logo.png" alt="Project Logo" width="200">
+  <img src="assets/codesmith-logo.png" alt="Codesmith" width="200">
 </div>
 
 # Codesmith
