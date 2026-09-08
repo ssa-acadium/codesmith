@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/codesmith-logo.png" alt="Project Logo" width="200">
 </div>
+
 # Codesmith
 
 **Eloquent code is compressed understanding.**
